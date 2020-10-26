@@ -62,7 +62,7 @@ const build = async (mode) => {
   const header = yaml(sourceParts[0]);
   let body = sourceParts[1];
 
-  body = pevneMezery(body)
+  //body = pevneMezery(body)
 
 
   // setting up external libraries and styles set in the header
