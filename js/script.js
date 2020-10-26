@@ -2,18 +2,16 @@
 import { h, render } from "preact";
 /** @jsx h */
 
-let host = "https://data.irozhlas.cz/anketa-cssd-volby";
-if (window.location.hostname === "localhost") {
-  host = "http://localhost/anketa-cssd-volby"
+let host = 'https://data.irozhlas.cz/anketa-covid';
+if (window.location.hostname === 'localhost') {
+  host = 'http://localhost/anketa-covid'
 }
 
-const qu1 = '1.'
-const qu2 = '2.'
-
 function printResps(obj) {
-  if (obj.o1 === null) { obj.o1 = '<i>Bez odpovědi.</i>'}
-  if (obj.o2 === null) { obj.o2 = '<i>Bez odpovědi.</i>'}
-  return `<p><b>${qu1}</b> ${obj.o1}</p><p><b>${qu2}</b> ${obj.o2}</p>`
+  if (obj.odp_1 === null) { obj.odp_1 = '<i>Bez odpovědi.</i>'}
+  if (obj.odp_2 === null) { obj.odp_2 = '<i>Bez odpovědi.</i>'}
+  if (obj.odp_3 === null) { obj.odp_3 = '<i>Bez odpovědi.</i>'}
+  return `<p><b>1.</b> ${obj.odp_1}</p><p><b>2.</b> ${obj.odp_2}</p><p><b>3.</b> ${obj.odp_3}</p>`
 }
 
 function onLoad(e) {
@@ -22,10 +20,10 @@ function onLoad(e) {
     <div id="anketa">
       {data.map(el => (
         <div className="respondent">
-          <img className="portret" src={host + "/foto/" + el.f} alt={el.p} />
-          <div className={el.o0 =="NE" ? "bio cervene" : el.o0 == "ANO" ? "bio zelene" :"bio"}>
-            <div className="jmeno">{`${el.j} ${el.p}`}</div>
-            <div className="vek">{el.s}</div>
+          <img className="portret" src={host + "/foto/" + el.foto} alt={el.jmeno} />
+          <div className="bio">
+            <div className="jmeno">{`${el.jmeno}`}</div>
+            <div className="vek">{el.profese}</div>
           </div>
           <div className="odpoved" dangerouslySetInnerHTML={{ __html: printResps(el) }}></div>
         </div>
