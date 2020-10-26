@@ -8,9 +8,9 @@ if (window.location.hostname === 'localhost') {
 }
 
 function printResps(obj) {
-  if (obj.odp_1 === null) { obj.odp_1 = '<i>Bez odpovědi.</i>'}
-  if (obj.odp_2 === null) { obj.odp_2 = '<i>Bez odpovědi.</i>'}
-  if (obj.odp_3 === null) { obj.odp_3 = '<i>Bez odpovědi.</i>'}
+  if (obj.odp_1 === '') { obj.odp_1 = '<i>Bez odpovědi.</i>'}
+  if (obj.odp_2 === '') { obj.odp_2 = '<i>Bez odpovědi.</i>'}
+  if (obj.odp_3 === '') { obj.odp_3 = '<i>Bez odpovědi.</i>'}
   return `<p><b>1.</b> ${obj.odp_1}</p><p><b>2.</b> ${obj.odp_2}</p><p><b>3.</b> ${obj.odp_3}</p>`
 }
 
