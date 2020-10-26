@@ -8,6 +8,7 @@ d = pd.read_csv('https://docs.google.com/spreadsheets/d/e/2PACX-1vTUWkdXEwd4X8Tq
 
 #%%
 d.fillna('', inplace=True)
+d.drop(['Unnamed: 6', 'editace', 'korektura'], axis=1, inplace=True)
 
 #%%
 present = list(os.listdir('./foto'))
