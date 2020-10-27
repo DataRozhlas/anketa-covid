@@ -13,7 +13,14 @@ Ministři zdravotnictví Roman Prymula a průmyslu a obchodu Karel Havlíček (o
 
 „Všechna opatření směřují k tomu, aby se maximálně zredukovaly sociální kontakty,“ řekl ministr Havlíček v Událostech, komentářích na ČT24. K zákazu denního vycházení se podle něj neschyluje.
 
-<embed><center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCT24.cz%2Fvideos%2F718375398763163%2F&amp;show_text=0&amp;width=560" style="border:none;overflow:hidden" scrolling="no" allowtransparency="true" allowfullscreen="true" width="560" height="315" frameborder="0"></iframe></center></embed>
+<div class="embed embed--video" id="video-8851603825711">
+        <style>
+          #video-8851603825711 {
+            padding-top: 56.25%;
+          }
+          </style>
+          <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCT24.cz%2Fvideos%2F718375398763163%2F&amp;show_text=0&amp;width=560" style="border:none;overflow:hidden" scrolling="no" allowtransparency="true" allowfullscreen="true" width="560" height="315" frameborder="0"></iframe>
+      </div>
 
 „Jsem přesvědčen, že drtivé většiny obyvatel se to zásadně nedotkne,“ prohlásil rovněž.
 
