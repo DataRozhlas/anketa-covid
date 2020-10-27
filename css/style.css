@@ -49,3 +49,12 @@
 #lineup {
   height: 600px;
 }
+
+.page-inverse .odpoved {
+  color:#fff;
+}
+
+.page-inverse .bio {
+  color: #fff;
+  background-color: darkgray;
+}

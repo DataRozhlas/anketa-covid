@@ -1,27 +1,29 @@
-title: "‚Svátky nás zastihnou ve velmi tísnivé situaci.‘ Opatření budou podle vědců platit i o Vánocích"
-perex: "Česko prochází kritickým obdobím. V příštích dnech se rozhodne, zda budou ještě zpřísněna opatření, jež mají zpomalit šíření koronaviru a snížit tím tlak na zdravotnický systém, kterému hrozí kolaps. Server iROZHLAS.cz proto oslovil dvacet předních odborníků. Řada z nich se domnívá, že restriktivní opatření se budou muset ještě zpřísnit a v nějaké formě nás s největší pravděpodobností budou provázet i o Vánocích."
-//coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
+title: "‚Svátky nás zastihnou ve velmi tísnivé situaci.‘ Zákazy budou podle vědců platit i o Vánocích"
+perex: "Česko prochází kritickým obdobím. „Naše čísla jsou katastrofální,“ prohlásil premiér Andrej Babiš (ANO) v neděli ve svém pořadu Čau lidi. Ministr zdravotnictví zase varoval, že pokud se v úterý statistiky nezlepší, budou muset být protikoronavirová opatření zpřísněna. Vláda krok nakonec oznámila už v pondělí po 21. hodině. Server iROZHLAS.cz ještě před tím oslovil dvacet předních odborníků s dotazy, zda dosud platné restrikce pomohou. A kdy je případně bude možné zmírnit."
+coverimg: https://interaktivni.rozhlas.cz/brexit/media/cover.jpg
 coverimg_note: "Foto <a href='https://ctk.cz'>ČTK</a>"
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 
 ---
-Premiér Andrej Babiš (ANO) ve svém nedělním pořadu Čau lidi řekl, že Česko čeká klíčový týden pro zvládnutí kritické situace. 
+Premiér o víkendu prohlásil, že k přísnějším opatřením bude muset kabinet sáhnout, „pokud se nestane zázrak“.
 
-„Naše čísla jsou katastrofální. A ta opatření, která jsme přijali na vládě, zatím nefungují. A musel by se stát asi zázrak, aby zafungovaly,“ prohlásil. 
+Ministři zdravotnictví Roman Prymula a průmyslu a obchodu Karel Havlíček (oba za ANO) v pondělí večer oznámili, že se s platností od 28. října zavádí například noční zákaz vycházení či omezení prodejní doby v obchodech _([více si o nich přečtete zde](https://www.irozhlas.cz/zpravy-domov/koronavirus-v-cesku-mimoradna-opatreni-andrej-babis-vlada_2010262120_kro))._
 
-Uvedl také, že „pokud se nestane zázrak“, bude muset vláda sáhnout k přísnějším restrikcím. 
+„Všechna opatření směřují k tomu, aby se maximálně zredukovaly sociální kontakty,“ řekl ministr Havlíček v Událostech, komentářích na ČT24. K zákazu denního vycházení se podle něj neschyluje.
 
-S tím souhlasí i část vědců a odborníků, které server iROZHLAS.cz oslovil. „Opatření nemohou být dostatečná k tomu, aby zabránila dalšímu nárůstu mrtvých a zaplněnosti nemocnic. To je vlak, který už jede bez ohledu na to, že jsme šlápli na brzdu,“ odpověděl na dotaz redakce imunolog Ondřej Hrušák.
+<embed><center><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCT24.cz%2Fvideos%2F718375398763163%2F&amp;show_text=0&amp;width=560" style="border:none;overflow:hidden" scrolling="no" allowtransparency="true" allowfullscreen="true" width="560" height="315" frameborder="0"></iframe></center></embed>
 
-Nedostatečná jsou omezení také podle evolučního biologa Jaroslava Flegra. Vládní opatření podle něj obsahují příliš mnoho výjimek, takže budou těžko vymahatelná. Problém navíc vidí v tom, že velká část veřejnosti opatření ignoruje. 
+„Jsem přesvědčen, že drtivé většiny obyvatel se to zásadně nedotkne,“ prohlásil rovněž.
 
-„Mezi opatřeními chybí třeba roušky či respirátory na všech pracovištích, uzavření speciálních škol a uzavření mateřských škol pro děti, jejichž rodiče nefungují v klíčových profesích záchranného systému,“ reagoval na dotaz iROZHLAS.cz. 
+Podle části odborníků vláda zaspala. „Opatření nemohou být dostatečná k tomu, aby zabránila dalšímu nárůstu mrtvých a zaplněnosti nemocnic. To je vlak, který už jede bez ohledu na to, že jsme šlápli na brzdu,“ řekl ještě před podnělním oznámením nových omezení imunolog Ondřej Hrušák.
 
-Rovněž Marián Hajdúch, vedoucí koronavirové laboratorní skupiny při ministerstvu zdravotnictví, upozorňuje na to, že vláda možná bude muset přitvrdit. 
+Evoluční biolog Jaroslav Flegr pro změnu upozornil na množství výjimek, kvůli nimž budou opatření těžko vymahatelná. Problém navíc vidí v tom, že velká část veřejnosti omezení ignoruje.
 
-Jiný názor ovšem zastává vedoucí pracovník epidemiologické skupiny ministerstva zdravotnictví Roman Chlíbek. Současná opatření považuje za dostatečná. „Jsou poměrně razantní a rozsáhlá, významně omezující vzájemné kontakty osob jako nejdůležitější cestu šíření nákazy,“ míní.
+„Mezi opatřeními chybí třeba roušky či respirátory na všech pracovištích, uzavření speciálních škol a uzavření mateřských škol pro děti, jejichž rodiče nefungují v klíčových profesích záchranného systému,“ reagoval na dotaz iROZHLAS.cz. Vláda v pondělí oznámila, že zaměstnavatelé musí umožnit home office těm, u nichž je to možné.
+
+Například Roman Chlíbek, vedoucí pracovník epidemiologické skupiny ministerstva zdravotnictví, považuje opatření za dostatečná. „Jsou poměrně razantní a rozsáhlá, významně omezující vzájemné kontakty osob jako nejdůležitější cestu šíření nákazy,“ míní.
 
 **Server iROZHLAS.cz se zeptal expertů na následující otázky:**
 1. Jsou současná opatření dostatečná? Proč si to myslíte?
